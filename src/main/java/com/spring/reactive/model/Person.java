@@ -11,8 +11,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
  * <b>Note: Cette classe est une entité dans une  base de donnée NOSQL (MongoDB)
  * L'annotation data c'est une annotation de la biblio lombok
  *  <b> C'est quoi ce Lombok ?</b>
- *  <p> Lombok c'est un projet qui était créer dans le but de nous simplifier la vie toute en nous créant les getters / setters , les méthodes toString ..
- *  par une simple annotation @Data  , qui sera responsable de la créations des accesseur et mutateur des champs de cette classe  </p>
+ *  <p> Lombok c'est un projet qui était créer dans le but de nous simplifier la vie toute en nous créant les getters / setters ,
+ *   les méthodes toString ..
+ *  par une simple annotation @Data  , qui sera responsable de la création des accesseurs et mutateurs des champs de cette classe  </p>
  * </b>
  *
  * @author Mohamed Fadlaoui
